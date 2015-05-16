@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user_id: 
+  name: MyString
+  link: MyString
+  rotten_score: MyString
+  on_netflix: false
+
+two:
+  user_id: 
+  name: MyString
+  link: MyString
+  rotten_score: MyString
+  on_netflix: false
